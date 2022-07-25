@@ -2,7 +2,7 @@
 
 I am a computer engineering student at Pamukkale University.
 
- 🌱 I’m currently learning **Reinforcement Learning** 
+ 🌱 I’m currently learning **Vue.js Learning** 
  
 
 ![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmaaydogdu&show_icons=true&theme=radical)

@@ -2,7 +2,6 @@
 
  🌱 I’m currently learning **Vue.js Learning** 
  
-- I'm an Intern at Softtech
 - I'm trying to learn everything about useful things / or useless _-sometimes-_
 - I am a student at Pamukkale University.(2019-2023)
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
-<h3 align="center">React Native Developer</h3>
+<h3 align="center">React / React Native Developer</h3>
 
 - 📫 How to reach me **fatmaaydogdu581@gmail.com**
 
